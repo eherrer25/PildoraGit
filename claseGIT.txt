@@ -24,7 +24,7 @@ git commit -m "tu primer commit"
 
 git push origin master
 
-/GIT desde 0 - Por @klinsmannf****/
+/GIT desde 0 - Por ksandoval@pegasus.cl/
 
 configuración
 Descarga git para OSX
